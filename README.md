@@ -1,2 +1,2 @@
 # bbhalapitvany.github.io
-Repository of BBHAlapitvany.com
+Repository of bbhalapitvany.com
